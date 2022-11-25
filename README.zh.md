@@ -9,8 +9,9 @@ English Version: [README.md](README.md)
 
 ## 使用平台：
 （仅列出了我测试并使用的平台版本。）
-- **Tampermonkey** (测试于v4.11.6120)
+- **Tampermonkey** (测试于v4.18.1)
 - Firefox (测试于v107.0 64-bit)
+- Chrome (测试于v107.0.5304.122 64-bit)
 - Windows 7 SP1，Windows 10 22H2 (我测试用的版本)
 
 ## 使用方法:
