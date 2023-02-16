@@ -8,6 +8,8 @@
 // @icon         https://avatars.githubusercontent.com/u/9076865?s=40&v=4
 // @author       OWENDSWANG
 // @license      MIT
+// @homepage     https://greasyfork.org/scripts/455376
+// @supportURL   https://github.com/owendswang/Load-pictures-on-ODSW
 // @match        https://www.owendswang.com/
 // @match        https://www.owendswang.com/?*
 // @match        https://www.owendswang.com/weibo/*
