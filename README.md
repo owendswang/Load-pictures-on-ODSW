@@ -1,7 +1,7 @@
 **中文介绍：[README.zh.md](README.zh.md)**
 
-# Load pictures on ODSW
-Load pictures from weibo.com without limitation on '[owendswang.com](https://www.owendswang.com)'.
+# Load pictures and videos on ODSW
+Load pictures and videos from weibo.com without limitation on '[owendswang.com](https://www.owendswang.com)'.
 
 ## Download:
 - Go to [Greasy Fork](https://greasyfork.org/scripts/455376).
