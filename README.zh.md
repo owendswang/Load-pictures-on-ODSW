@@ -1,7 +1,7 @@
 English Version: [README.md](README.md)
 
-# 加载ODSW网站上的图片
-跳过微博图床外链限制，加载“[owendswang.com](https://www.owendswang.com)”网站上的微博外链图片。
+# 加载ODSW网站上的图片和视频
+跳过微博图片和视频的外链限制，加载“[owendswang.com](https://www.owendswang.com)”网站上的微博外链图片。
 
 ## 下载:
 - 前往[Greasy Fork](https://greasyfork.org/scripts/455376)。
